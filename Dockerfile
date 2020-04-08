@@ -40,6 +40,8 @@ RUN apt-get update \
 	&& apt-get -y install \
 # install essential build tools
 		git \
+# for envsubst
+		gettext-base \
 # kubectl
 		kubectl \
 # clean up
