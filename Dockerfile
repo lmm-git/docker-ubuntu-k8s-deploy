@@ -1,4 +1,4 @@
-FROM ubuntu:bionic
+FROM ubuntu:focal
 
 MAINTAINER Leonard Marschke <github@marschke.me>
 
